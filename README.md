@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `3m` sample updated in sync
 
-> **Sample on GitHub** · `USOIL_3m.csv` (18,485 rows, `2026-07-07` -> `2026-09-02`, 1.35 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/usoil)** — **2,022,263** `3m` rows (full `1m`: 6,029,418), **11 timeframes**, `2008-09-10` -> `2026-09-02`.
+> **Sample on GitHub** · `USOIL_3m.csv` (18,480 rows, `2026-07-07` -> `2026-09-02`, 1.35 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/usoil)** — **2,022,263** `3m` rows (full `1m`: 5,981,180), **11 timeframes**, `2008-09-10` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,7 +45,7 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | WTI Crude Oil · Commodities | WTI Crude Oil · Commodities |
 | Timeframes | `3m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 3m rows | 18,485 | **2,022,263** |
+| 3m rows | 18,480 | **2,022,263** |
 | Size | 1.35 MB | full ZIP on [getdata.finance](https://getdata.finance/datasets/usoil) |
 | Period | `2026-07-07` -> `2026-09-02` | `2008-09-10` -> `2026-09-02` |
 | File | `USOIL_3m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/usoil) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`USOIL_3m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-07T18:48:00+00:00 | 70.637 | 71.069 | 70.637 | 70.872 | 1215 |
-| 2026-07-07T18:51:00+00:00 | 70.872 | 71.209 | 70.868 | 71.158 | 980 |
-| 2026-07-07T18:54:00+00:00 | 71.158 | 71.338 | 71.132 | 71.323 | 636 |
-| 2026-07-07T18:57:00+00:00 | 71.323 | 71.432 | 71.297 | 71.427 | 491 |
-| 2026-07-07T19:00:00+00:00 | 71.427 | 71.569 | 71.398 | 71.513 | 589 |
+| 2026-07-07T19:03:00+00:00 | 71.513 | 71.802 | 71.513 | 71.688 | 711 |
+| 2026-07-07T19:06:00+00:00 | 71.688 | 71.849 | 71.622 | 71.793 | 568 |
+| 2026-07-07T19:09:00+00:00 | 71.793 | 71.979 | 71.788 | 71.968 | 554 |
+| 2026-07-07T19:12:00+00:00 | 71.968 | 72.118 | 71.948 | 72.062 | 746 |
+| 2026-07-07T19:15:00+00:00 | 72.062 | 72.343 | 72.062 | 72.294 | 1065 |
 
 **Last rows**
 
